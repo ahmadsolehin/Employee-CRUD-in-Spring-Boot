@@ -6,3 +6,6 @@
 
 ## step by step
 
+- create db name springbootemployee in phpmyadmin
+- then import springbootemployee.sql
+- open terminal run mvn spring-boot
